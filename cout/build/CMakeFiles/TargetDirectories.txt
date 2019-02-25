@@ -1,0 +1,7 @@
+/home/cjm/Documents/cpptest/cout/build/CMakeFiles/edit_cache.dir
+/home/cjm/Documents/cpptest/cout/build/CMakeFiles/rebuild_cache.dir
+/home/cjm/Documents/cpptest/cout/build/CMakeFiles/function.dir
+/home/cjm/Documents/cpptest/cout/build/CMakeFiles/const.dir
+/home/cjm/Documents/cpptest/cout/build/CMakeFiles/cout.dir
+/home/cjm/Documents/cpptest/cout/build/CMakeFiles/for.dir
+/home/cjm/Documents/cpptest/cout/build/CMakeFiles/if.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/add.dir/add.cpp.o  -o add -rdynamic 

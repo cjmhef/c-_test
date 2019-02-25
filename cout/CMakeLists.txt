@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 2.8)
+project(cout)
+add_executable(cout cout.cpp)
+add_executable(const const.cpp)
+add_executable(for for.cpp)
+add_executable(if if.cpp)
+add_executable(function function.cpp)
